@@ -44,5 +44,5 @@ JS
 https://unniiiverse.github.io/cdn/module/uvstm/ticker/@1.0.1/app.min.js
 ```
 
-## [CODEPEN](https://codepen.io/unniiiverse/pen/[MODULE_CODEPEN]) [GITHUB](https://github.com/unniiiverse/uvstm-ticker)
+## [CODEPEN](https://codepen.io/unniiiverse/pen/PoBagEj) [GITHUB](https://github.com/unniiiverse/uvstm-ticker)
 unniiiverse ©️ 2023
