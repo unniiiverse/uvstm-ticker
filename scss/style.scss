@@ -1,0 +1,49 @@
+.uvstm-ticker {
+  overflow: hidden;
+  white-space: nowrap;
+
+  &_container {
+    display: inline-flex;
+  }
+
+  &_collection {
+    &--1 {
+      position: relative;
+      left: 0;
+    }
+  }
+
+  &_items {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+
+  &_item {
+    display: inline-block;
+    flex-shrink: 0;
+  }
+}
+
+@keyframes uvstm-ticker {
+  0% {
+    transform: translateX(0)
+  }
+
+  100% {
+    transform: translateX(-100%)
+  }
+}
+
+@keyframes uvstm-ticker-swap {
+
+  0%,
+  50% {
+    left: 0%;
+  }
+
+  50.01%,
+  100% {
+    left: 100%;
+  }
+}
